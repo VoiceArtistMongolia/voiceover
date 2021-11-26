@@ -38,7 +38,7 @@ export default function Home({posts}) {
       <pre> {JSON.stringify(posts,null,2)}</pre>
       <footer className="page-footer">
         <div>
-          <a href="#">Home</a>
+          <a href="#">нүүр</a>
           {" | "}
           <a href="#">сургалт</a>
           {" | "}
